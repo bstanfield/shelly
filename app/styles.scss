@@ -1,0 +1,29 @@
+// - VARIABLES
+$sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+// - STYLES
+body {
+  font-family: $sans;
+  color: #333;
+  line-height: 25px;
+}
+
+.container {
+  width: 600px;
+  padding-top: 100px;
+  margin: auto;
+}
+
+.emphasis {
+  text-transform: uppercase;
+  background-color: lightblue;
+  color: rgb(2, 2, 57);
+  font-weight: bold;
+  padding: 2px 5px;
+  border-radius: 4px;
+  font-size: 95%;
+}
+
+li {
+  padding: 4px;
+}
