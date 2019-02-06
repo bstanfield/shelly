@@ -23,8 +23,7 @@ Clone this repo
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 
-![Image of Index]
-(https://i.imgur.com/IFqkG35.png)
+![Index.pug](https://i.imgur.com/IFqkG35.png)
 
 
 ## ES-next
