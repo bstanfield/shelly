@@ -24,7 +24,7 @@ Clone this repo
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 
 * You should see:
-![](images/readme.png ?raw=true)
+![](readme.png ?raw=true)
 
 
 ## ES-next
