@@ -23,6 +23,10 @@ Clone this repo
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 
+* You should see:
+![](images/readme.png ?raw=true)
+
+
 ## ES-next
 
 To use proposed JS features not included into ES6, do this:
