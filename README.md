@@ -24,8 +24,8 @@ Clone this repo
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 
 * You should see:
-![Image of Index]
-(https://i.imgur.com/IFqkG35.png)
+    ![Image of Index]
+    (https://i.imgur.com/IFqkG35.png)
 
 
 ## ES-next
