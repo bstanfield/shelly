@@ -1,0 +1,9 @@
+# site is built from `brunch build`
+public/
+
+# package directories
+node_modules
+jspm_packages
+
+# Mac common files
+.DS_Store
