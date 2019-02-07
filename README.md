@@ -25,7 +25,6 @@ Clone this repo
 
 ![Index.pug](https://i.imgur.com/IFqkG35.png)
 
-
 ## ES-next
 
 To use proposed JS features not included into ES6, do this:
