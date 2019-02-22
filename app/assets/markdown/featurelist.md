@@ -1,0 +1,7 @@
+- Automatically compiles **Pug (Jade)** and **SCSS** files.
+- Live-reloads changes to any file (⌘S). 
+- Supports in-line **Markdown**
+- Tried-and-true file tree structure, including folders for images, hidden mixins, etc.
+- **jQuery** enabled out of the box.
+- Nifty **Layout.pug** file that stitches together a footer, nav, and header into the index.
+- Makefile with handy shortcuts for Brunch and [deployment](https://www.google.com) commands.

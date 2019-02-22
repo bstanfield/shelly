@@ -1,5 +1,7 @@
 // - VARIABLES
 $sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$small: 18px;
+$turtleGreen: rgb(81, 209, 81);
 
 // - STYLES
 body {
@@ -8,22 +10,30 @@ body {
   line-height: 25px;
 }
 
+p, li {
+  line-height: 35px;
+  font-size: $small;
+}
+
 .container {
-  width: 600px;
-  padding-top: 100px;
+  width: 90%;
+  max-width: 600px;
+  padding-top: 50px;
   margin: auto;
 }
 
-.emphasis {
-  text-transform: uppercase;
-  background-color: lightblue;
-  color: rgb(2, 2, 57);
-  font-weight: bold;
-  padding: 2px 5px;
-  border-radius: 4px;
-  font-size: 95%;
+i {
+  padding-right: 10px;
 }
 
-li {
-  padding: 4px;
+a, h1:first-of-type {
+  color: $turtleGreen;
+}
+
+footer {
+  margin-bottom: 80px;
+}
+
+.linkBox {
+  margin-bottom: 10px;
 }
