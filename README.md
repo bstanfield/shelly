@@ -1,5 +1,7 @@
-# staticSkeleton
-Simple Brunch application skeleton with modules already included for pug, scss, live reload, etc.; a preset file tree; a Makefile for shortlist of CLI commands; and a dynamic starter layout.
+# 🐢 Shelly, a simple Brunch Application shell.
+Shelly is a **Brunch App** shell with some neat out of the box features.
+Made for web developers that want to **move beyond vanilla HTML and CSS**, and to help people write better and more scalable code.
+Some of Shelly's features:
 
 This site is built with Brunch.js, Pug, SCSS, and JQuery. Follow these
 steps to get it running on your own computer:
@@ -23,7 +25,7 @@ Clone this repo
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 
-![Index.pug](https://i.imgur.com/IFqkG35.png)
+![Shelly](https://i.imgur.com/QQCaqAf.png)
 
 ## ES-next
 
